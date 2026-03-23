@@ -13,9 +13,9 @@ title                    : "Constanza Avalos-Valdebenito"
 title_separator          : "-"
 name                     : &name "Constanza Avalos-Valdebenito"
 description              : &description "Constanza Avalos-Valdebenito's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://cotypolis.github.io"
-baseurl                  : "/academic-website-preview"
-repository               : "cotypolis/academic-website-preview"
+url                      : "https://constanzaavalos.github.io"
+baseurl                  : ""
+repository               : "constanzaavalos/constanzaavalos.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "cotypolis"
+  github           : "constanzaavalos"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

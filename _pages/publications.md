@@ -5,9 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Articles
+## Working papers
 
-* Avalos, C., Wang, Y., & Shryane, N. (in preparation). On the selection of covariates for transportability: A doubly robust machine learning approach for generalising a food labelling trial with mixed-type data.
+* Avalos, C., Wang, Y., & Shryane, N. Generalizing food labelling trials under unmeasured confounding: A doubly robust BART approach with synthetic cognitive proxies. (Under review, Journal of the Royal Statistical Society: Series A)
+
+* Perez Ruiz, D., & Avalos, C. Generalizing food labelling trials under unmeasured confounding: A doubly robust BART approach with synthetic cognitive proxies. (Submitted, Survey Research Methods)
+
+* Avalos, C. Estimating the population health and economic burden of food labelling policy in England: A microsimulation approach with causal generalisation. (In preparation)
+
+## Publications and Accepted articles
 
 * Avalos, C., Wang, Y., & Shryane, N. (2026). Food label readability and consumption frequency: Isolating content-specific effects via a non-equivalent dependent variable design. *Nutrients*, 18(2), 197. [https://www.mdpi.com/2072-6643/18/2/197](https://www.mdpi.com/2072-6643/18/2/197)
 

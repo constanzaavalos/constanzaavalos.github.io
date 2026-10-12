@@ -9,7 +9,7 @@ author_profile: true
 
 * Avalos, C., Wang, Y., & Shryane, N. Generalizing food labelling trials under unmeasured confounding: A doubly robust BART approach with synthetic cognitive proxies. (Under review, Journal of the Royal Statistical Society: Series A)
 
-* Perez Ruiz, D., & Avalos, C. Generalizing food labelling trials under unmeasured confounding: A doubly robust BART approach with synthetic cognitive proxies. (Submitted, Survey Research Methods)
+* Perez Ruiz, D., & Avalos, C. How Much Non-Probability Data Is Enough? An Entropy-Based Stopping Rule for Sample Integration with an Application to Political Efficacy in the ANES 2012. (Submitted, Survey Research Methods)
 
 * Avalos, C. Estimating the population health and economic burden of food labelling policy in England: A microsimulation approach with causal generalisation. (In preparation)
 
